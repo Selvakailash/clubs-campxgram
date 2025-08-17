@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://selvakailash.github.io/clubs-campxgram",
+  "homepage": "https://github.com/Selvakailash/hackbeyond.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
